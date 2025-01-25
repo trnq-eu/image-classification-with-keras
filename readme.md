@@ -1,8 +1,8 @@
 # Classificazione immagini con Keras
 
-Un esempio di creazione di un modello per la classificazione automatica di immagini con tensorflow e Keras. Il modello utilizza il **transfer learning** a partire da un modello pre-addestrato **Xception** per ottenere un'elevata accuratezza nel riconoscimento di vari stili architettonici.
+Un esempio di creazione di un modello per la classificazione automatica di immagini con Tensorflow e Keras. Il modello utilizza il **transfer learning** a partire da un modello pre-addestrato **Xception**.
 
-In questo caso il modello lo stile architettonico di un edificio a partire da un'immagine, ma la logica può essere applicata a qualsiasi problema di classificazione multiclasse. 
+In questo caso il modello classifica lo stile architettonico di un edificio a partire da un'immagine, ma la logica può essere applicata a qualsiasi problema di classificazione multiclasse. 
 
 
 ## File
