@@ -15,7 +15,7 @@ In questo caso il modello classifica lo stile architettonico di un edificio a pa
 *   **Dockerfile** contiene le istruzioni per costruire ed eseguire il container Docker
 
 ## Istruzioni per il Deployment
-Creare ed eseguire il container Docker per distribuire il modello su un server:
+Creare ed eseguire il container Docker per distribuire il modello su un server. In questo caso viene utilizzata la porta 5000, ma si può modificare all'interno del file `app.py`:
 
 
 1.  **Build dell'immagine Docker:**
